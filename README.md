@@ -5,6 +5,7 @@
 - Dual Intel Xeon E5-2687W v0 (32 threads, AVX1 only)
 - 88 GB DDR3 ECC RAM
 - Nvidia Quadro K4200 (4 GB GDDR5, Compute 3.0)
+- Nvidia Quadro k620 (2 GB DDR3)
 
 ## Architecture
 
